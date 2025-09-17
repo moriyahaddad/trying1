@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Trying
 {
-    internal class Class1
+    public class Class1
     {
+
     }
 }
